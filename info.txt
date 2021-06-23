@@ -1,1 +1,2 @@
+here is new line added
 This is info file for the project
